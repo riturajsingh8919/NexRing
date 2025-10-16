@@ -54,7 +54,7 @@ export default function HealthCategoriesSection() {
       tagline: "Listen to what your heart is",
       taglineItalic: "telling you",
       color: "#ef4444",
-      bgImage: "/heart.jpg",
+      bgImage: "/heart-health.JPG",
       description:
         "Better nights make for better days. With NexRing, wake up to in-depth heart rate analysis and deeper insight into your cardiovascular health.",
       testimonial: {
